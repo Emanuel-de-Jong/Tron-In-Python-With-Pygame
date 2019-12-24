@@ -20,6 +20,4 @@ It should be playable and easily extendable
 
 
 ## Screenshots
-![](/Screenshots/.png)
-
-![](/Screenshots/.png)
+![Game](/Screenshots/Game.png)
