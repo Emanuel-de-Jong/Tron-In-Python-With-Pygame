@@ -2,10 +2,11 @@ import pygame
 
 pygame.init()
 
-screenWidth = 1080
-screenHeight = 1080
+screenWidth = 1024
+screenHeight = 1024
 clock = pygame.time.Clock()
-win = pygame.display.set_mode((screenWidth, screenHeight), pygame.FULLSCREEN)
+#win = pygame.display.set_mode((screenWidth, screenHeight), pygame.FULLSCREEN)
+win = pygame.display.set_mode((screenWidth, screenHeight))
 radius = 10
 vel = 10
 keys = None
@@ -68,7 +69,7 @@ for char in chars:
     pygame.draw.rect(win, char.color, (char.x, char.y, radius, radius))
 run = False
 painted = set()
-#win.blit(pygame.image.load("bg.png"), (0, 0))
+win.blit(pygame.image.load("bg.jpg"), (0, 0))
 
 # main loop
 while True:
