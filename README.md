@@ -1,4 +1,4 @@
-# Tron
+# Tron In Python With Pygame
  
 ## Description
 The popular Tron game.
