@@ -1,7 +1,5 @@
 # Tron In Python With Pygame
-The popular Tron game.
-
-Can be played with a maximum of 4 players.
+The popular Tron game. Can be played with a maximum of 4 players.
 
 I made this for an AI but failed on the AI part. It should be playable and easily extendable.
 
