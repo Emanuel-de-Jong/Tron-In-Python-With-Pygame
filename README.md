@@ -18,6 +18,6 @@ I made this for an AI but failed on the AI part. It should be playable and easil
 - Frameworks and libraries: Pygame
 
 ## Progress
-- Start date: 22.06.19
-- Last change: 24.06.19
+- Start date: 2019-06-22
+- Last change: 2019-06-24
 - Activity status: Complete
