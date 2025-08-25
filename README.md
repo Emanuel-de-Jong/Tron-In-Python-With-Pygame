@@ -3,8 +3,8 @@ The popular Tron game. Can be played with a maximum of 4 players.
 
 I made this for an AI but failed on the AI part. It should be playable and easily extendable.
 
-**Active Development:** <br>
-**Last Change:** <br>
+**Active Development:** 2019-06-22 - 2019-06-24<br>
+**Last Change:** 2019-12-24<br>
 
 | | |
 | :---: | :---: |
@@ -14,8 +14,3 @@ I made this for an AI but failed on the AI part. It should be playable and easil
 - Type: Game
 - Programming languages: Python
 - Frameworks and libraries: Pygame
-
-## Progress
-- Start date: 2019-06-22
-- Last change: 2019-06-24
-- Activity status: Complete
